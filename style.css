@@ -300,6 +300,15 @@ footer i:hover {
 	header {
         height: auto;
     }
+
+    .hero div {
+        padding: 20px 50px 20px 20px;
+    }
+    
+    .hero div h2 {
+        font-size: 2.5em;
+    }
+    
 	nav img {
 		float: none;
         padding: 10px 0;
